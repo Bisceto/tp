@@ -2,7 +2,6 @@
 layout: page
 title: Teo Yu Xiang Wesley's Project Portfolio Page
 ---
-
 ### Project: Well Informed Fridge Environment (WIFE)
 Enhance life with WIFE! Our product Well Informed Fridge Environment &lt;WIFE/&gt; helps users to manage their 
 items in the fridge. With this, one never has to worry about optimizing storage and organisation of food items in their
@@ -26,7 +25,6 @@ stating the quantity they wish to increase/decrease by.
 ensuring that the value to decrease by was not greater than the current `Quantity`.
 <br/>
 
-
 * **Enhancements to existing features**: Finding a food item by its name.
     - What it does: Originally, the find feature implemented by AB3 needed the name of a person to match the keyword exactly.
       Now, the name of the food item just needs to contain the keyword for it to appear in the filtered list.
@@ -35,15 +33,12 @@ ensuring that the value to decrease by was not greater than the current `Quantit
       The user may not remember the exact name or spelling of the food item that they are looking for, thus editing the feature for
       the name to simply contain the keyword is more flexible and user-friendly, enhancing the user experience.
 
-<br/>
 
 * **Code contributed**: [RepoSense link](https://nus-cs2103-ay2223s2.github.io/tp-dashboard/?search=jnjy&breakdown=true&sort=groupTitle&sortWithin=title&since=2023-02-17&timeframe=commit&mergegroup=&groupSelect=groupByRepos&checkedFileTypes=docs~functional-code~test-code~other)
 
 * **Project management**:
     * Managed documentation formatting and content structure for WIFE, including the User Guide and Developer Guide.
     * Reviewed all PRs that involved editing of UG and DG e.g. diagrams and feature implementations.
-
-<br/>
 
 * **Documentation**:
     * User Guide:
@@ -60,15 +55,11 @@ ensuring that the value to decrease by was not greater than the current `Quantit
         * Added documentation for manual testing [[PR#297]](https://github.com/AY2223S2-CS2103T-T11-1/tp/pull/297)
         * Finalised formatting issues and structure of DG
 
-<br/>
-
--   **Testing**:
+* **Testing**:
 
     -   Added tests for `IncreaseCommand` and `IncreaseCommandParser` [[PR#160]](https://github.com/AY2223S2-CS2103T-T11-1/tp/pull/160) [[PR#290]](https://github.com/AY2223S2-CS2103T-T11-1/tp/pull/290)
     -   Added tests for `DecreaseCommand` and `DecreaseCommandParser` [[PR#290]](https://github.com/AY2223S2-CS2103T-T11-1/tp/pull/290)
     -   Edited tests for `Find` [[PR#278]](https://github.com/AY2223S2-CS2103T-T11-1/tp/pull/278)
-
-<br/>
 
 * **Community**:
     * PRs reviewed: [[PR#38]](https://github.com/AY2223S2-CS2103T-T11-1/tp/pull/38) [[PR#43]](https://github.com/AY2223S2-CS2103T-T11-1/tp/pull/43)
